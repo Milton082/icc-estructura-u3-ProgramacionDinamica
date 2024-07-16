@@ -110,3 +110,7 @@ Para contribuir a este proyecto, por favor crea un fork y envía un pull request
 ## Autores
 
 - [Pablo Torres] - Desarrollo inicial
+
+## V3.1.1
+
+- Programación Dinamica y Ejercicios.

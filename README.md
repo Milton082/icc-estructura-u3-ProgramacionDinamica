@@ -111,4 +111,6 @@ To contribute to this project, please create a fork and send a pull request, or 
 
 - [PABLO TORRES] - Initial development
 
+## V3.1.1
 
+- Dynamic Programming and exercices.
